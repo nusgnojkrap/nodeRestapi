@@ -1,0 +1,26 @@
+{
+    "name": "sejong-restapi-surrogate",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "type": "module",
+    "dependencies": {
+        "axios": "^0.24.0",
+        "body-parser": "^1.19.0",
+        "crypto-js": "^4.1.1",
+        "date-utils": "^1.2.21",
+        "dateformat": "^5.0.3",
+        "express": "^4.17.1",
+        "iconv-lite": "^0.6.3",
+        "lodash": "^4.17.21",
+        "mysql": "^2.18.1",
+        "net": "^1.0.2",
+        "winston": "^3.3.3",
+        "winston-daily-rotate-file": "^4.5.5"
+    }
+}
